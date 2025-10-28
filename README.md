@@ -5,7 +5,7 @@
 
 ## 🌟 About
 
-This is the official website repository for **iamvnetxAI**. The site is currently under active development and will showcase amazing projects, skills, and innovations in AI and technology.
+Th is is the official website repository for **iamvnetxAI**. The site is currently under active development and will showcase amazing projects, skills, and innovations in AI and technology.
 
 ## 🚧 Current Status
 
