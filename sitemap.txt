@@ -1,0 +1,8 @@
+# Sitemap for Vineet Kalosiya's Portfolio Website
+
+https://iamvnetxai.github.io/
+https://iamvnetxai.github.io/#about
+https://iamvnetxai.github.io/#experience
+https://iamvnetxai.github.io/#skills
+https://iamvnetxai.github.io/#projects
+https://iamvnetxai.github.io/#contact

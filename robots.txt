@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://iamvnetxai.github.io/sitemap.txt
+
+# Disallow crawling of assets directories that don't need indexing
+Disallow: /assets/js/
+Disallow: /assets/css/
+
+# Allow crawling of images for better SEO
+Allow: /assets/images/
